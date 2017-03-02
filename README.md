@@ -1,1 +1,1 @@
-# UCR 146 Computer Vision
+# UCR CS 146 Computer Vision
